@@ -1,36 +1,36 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🛒 SISTEM DIAGNOSIS KESEHATAN MENTAL — Sistem Pakar Mendiagnosis Kesehatan Mental
 
-## Getting Started
+# **Developed by:**  
+# I Dewa Gede Mas Bagus Krisnanda (2301020058)   
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 📖 Deskripsi Proyek
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**Sistem Kesehatan Mental** adalah sistem pakar berbasis website yang dipresentasikan dalam sistem ini adalah psikolog klinis dan psikiater, yang memiliki kompetensi dalam mendiagnosis gangguna kesehatan berdasarkan gejala klnis dan pedoman diagnostik seperti  DSM (Diagnostic and Statistical Manual of Mental Disorders).
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
+## 🧠 Teknologi yang Digunakan
 
-## Learn More
+| Teknologi | Deskripsi |
+|------------|------------|
+| ⚛️ **Next.Js & React.js** | React.js adalah pustaka JavaScript untuk membangun antarmuka pengguna (UI), sedangkan Next.js adalah kerangka kerja (framework) yang dibangun di atas React |
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📱 Tampilan Aplikasi (Preview)
+<img width="386" height="896" alt="Screenshot 2026-01-07 023541" src="https://github.com/user-attachments/assets/335f79ce-bc3b-4e82-96d4-ec0b1960cce8" /> <img width="386" height="889" alt="Screenshot 2026-01-07 023631" src="https://github.com/user-attachments/assets/d7ec284a-3674-4431-bbe2-4b9d5934fe83" /> <img width="380" height="889" alt="Screenshot 2026-01-07 024034" src="https://github.com/user-attachments/assets/1e7c2324-8639-4739-b0fd-4b691b5e476a" /> <img width="384" height="892" alt="Screenshot 2026-01-07 024047" src="https://github.com/user-attachments/assets/76ab92d2-bd6f-4a71-87a7-4585064abfd8" /> <img width="385" height="894" alt="Screenshot 2026-01-07 024101" src="https://github.com/user-attachments/assets/d3b69190-7aa8-4683-a98b-2e20489139d5" /> <img width="383" height="893" alt="Screenshot 2026-01-07 024129" src="https://github.com/user-attachments/assets/06c6cb0d-7217-47f6-814b-0f8c166ef56a" />
+<img width="386" height="887" alt="Screenshot 2026-01-07 024143" src="https://github.com/user-attachments/assets/e40caba2-247c-458d-8585-472a427114db" /> <img width="388" height="893" alt="Screenshot 2026-01-07 024156" src="https://github.com/user-attachments/assets/d7e7798b-0be2-4535-9559-5081eee8bc8c" />
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+
+
+
+
+
+
