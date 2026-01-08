@@ -1,4 +1,4 @@
-#SISTEM DIAGNOSIS KESEHATAN— Sistem Pakar Mendiagnosis Kesehatan Mental
+# SISTEM DIAGNOSIS KESEHATAN — Sistem Pakar Mendiagnosis Kesehatan Mental
 
 # **Developed by:**  
 # I Dewa Gede Mas Bagus Krisnanda (2301020058)   
