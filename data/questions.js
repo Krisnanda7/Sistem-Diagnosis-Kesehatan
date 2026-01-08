@@ -1,0 +1,22 @@
+export const questions = [
+      { id: 'q1', text: 'Apakah Anda merasa sedih, murung, atau hampa hampir sepanjang hari selama 2 minggu terakhir?', category: 'Depresi' },
+      { id: 'q2', text: 'Apakah Anda kehilangan minat atau kesenangan dalam aktivitas yang biasanya Anda nikmati?', category: 'Depresi' },
+      { id: 'q3', text: 'Apakah Anda mengalami perubahan pola tidur (insomnia atau tidur berlebihan)?', category: 'Depresi' },
+      { id: 'q4', text: 'Apakah Anda merasa lelah atau kehilangan energi hampir setiap hari?', category: 'Depresi' },
+      { id: 'q5', text: 'Apakah Anda mengalami perubahan nafsu makan atau berat badan yang signifikan?', category: 'Depresi' },
+      { id: 'q6', text: 'Apakah Anda sering merasa cemas atau khawatir berlebihan tentang berbagai hal?', category: 'Kecemasan' },
+      { id: 'q7', text: 'Apakah Anda sulit mengendalikan kekhawatiran Anda?', category: 'Kecemasan' },
+      { id: 'q8', text: 'Apakah Anda mengalami gejala fisik seperti jantung berdebar, berkeringat, atau gemetar?', category: 'Kecemasan' },
+      { id: 'q9', text: 'Apakah Anda merasa gelisah, tegang, atau mudah kaget?', category: 'Kecemasan' },
+      { id: 'q10', text: 'Apakah Anda pernah mengalami serangan panik tiba-tiba dengan ketakutan intens?', category: 'Panik' },
+      { id: 'q11', text: 'Apakah Anda menghindari tempat atau situasi karena takut mengalami serangan panik?', category: 'Panik' },
+      { id: 'q12', text: 'Apakah Anda pernah mengalami peristiwa traumatis yang menakutkan atau mengancam?', category: 'Trauma' },
+      { id: 'q13', text: 'Apakah Anda sering mengalami kilas balik atau mimpi buruk tentang peristiwa traumatis?', category: 'Trauma' },
+      { id: 'q14', text: 'Apakah Anda menghindari hal-hal yang mengingatkan pada trauma tersebut?', category: 'Trauma' },
+      { id: 'q15', text: 'Apakah Anda merasa waspada berlebihan atau mudah terkejut sejak kejadian traumatis?', category: 'Trauma' },
+      { id: 'q16', text: 'Apakah Anda memiliki pikiran yang tidak diinginkan yang terus berulang (obsesi)?', category: 'OCD' },
+      { id: 'q17', text: 'Apakah Anda merasa harus melakukan tindakan berulang untuk mengurangi kecemasan (kompulsi)?', category: 'OCD' },
+      { id: 'q18', text: 'Apakah ritual atau tindakan berulang ini menghabiskan banyak waktu (lebih dari 1 jam/hari)?', category: 'OCD' },
+      { id: 'q19', text: 'Apakah Anda menyadari bahwa pikiran atau tindakan berulang ini berlebihan atau tidak masuk akal?', category: 'OCD' },
+      { id: 'q20', text: 'Apakah Anda menghindari situasi sosial karena takut dinilai atau dipermalukan orang lain?', category: 'Sosial' }
+    ];
