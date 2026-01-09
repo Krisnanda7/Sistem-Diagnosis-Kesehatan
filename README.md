@@ -24,6 +24,8 @@ Sistem Pakar Mendiagnosis Kesehatan Mental
 <img width="1004" height="479" alt="image" src="https://github.com/user-attachments/assets/d50e56fa-9454-4901-915a-6662bd452d54" />
 <img width="1007" height="515" alt="image" src="https://github.com/user-attachments/assets/41c11ef8-74f3-41be-bb19-ee91868a992a" />
 <img width="1007" height="513" alt="image" src="https://github.com/user-attachments/assets/9ba8e341-65f0-437d-9edd-3fa7d41f7f50" />
+<img width="1007" height="184" alt="image" src="https://github.com/user-attachments/assets/dc06b6b0-acf5-44aa-b27b-e1d7f7b897e7" />
+
 
 
 
